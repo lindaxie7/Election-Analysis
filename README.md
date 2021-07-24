@@ -33,7 +33,7 @@ Raymon Anthony Doane recieved 3.1% of the vote and 11,606 votes.
 
 -The winner of the election was Diana DeGette, who recieved 73.8% of the vote and 272,892 votes.
 See the output of the code below:
-
+![Capture](https://user-images.githubusercontent.com/38533045/126882435-f5551184-98b0-4e91-9c48-c995ec6a16d6.JPG)
 
 ## Election Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
