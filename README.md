@@ -6,23 +6,23 @@ Tom, a Colorado Board of Elections employee, needs assitance to complete the ele
 ### Purpose
 We want to automate the process of generating a vote count report using Python, the vote count report should include below:
 
-Calculate the total number of votes cast.
+The total number of votes cast.
 
-Get a complete list of counties that had a turnout.
+A list of counties that had a turnout.
 
-Calculate the voter turnout for each county.
+The voter turnout for each county.
 
-Calculate the percentage of votes each county cast.
+The percentage of votes each county cast.
 
-Determine the county with the highest turnout.
+The county with the highest turnout.
 
-Get a complete list of candidates who recieved votes.
+A list of candidates who recieved votes.
 
-Calculate the total number of votes each candidate recieved.
+The total number of votes each candidate recieved.
 
-Calculate the percentage of votes each candidate won.
+The percentage of votes each candidate won.
 
-Determine the winner of the election based on popular vote.
+The winner of the election based on popular vote.
 
 
 ## Election Audit Results
