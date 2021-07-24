@@ -46,4 +46,7 @@ See the output of the code below:
 ![Untitled](https://user-images.githubusercontent.com/38533045/126882462-8dce4aa0-9228-45d6-8436-a5d132b8b54e.png)
 
 ## Election Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+I propose that the election commission can use the PyPoll_Challenge.py script, with some modifications, for other elections. 
+Currently, the program is written to analyze the election_results.csv file by iterating through each row and reading the data in the second and third columns, 'County' and 'Candidate', in order to calculate and print the results. There are many different ways in which this code can be altered and used with any election results.
+
+For example, the program can be modified to determine which column to read data from by iterating through the header row. Then files with columns that are arranged in a different order will be analyzed accordingly. The programmer will also no longer have to inspect the data in order to ensure that script is reading the correct columns.
