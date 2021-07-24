@@ -4,16 +4,26 @@
 Tom, a Colorado Board of Elections employee, needs assitance to complete the election audit of a recent local congressional election.
 
 ### Purpose
-We want to automate the process of generating a vote count report using Python, the vote count report should include below: 
+We want to automate the process of generating a vote count report using Python, the vote count report should include below:
+
 Calculate the total number of votes cast.
+
 Get a complete list of counties that had a turnout.
+
 Calculate the voter turnout for each county.
+
 Calculate the percentage of votes each county cast.
+
 Determine the county with the highest turnout.
+
 Get a complete list of candidates who recieved votes.
+
 Calculate the total number of votes each candidate recieved.
+
 Calculate the percentage of votes each candidate won.
+
 Determine the winner of the election based on popular vote.
+
 
 ## Election Audit Results
 
